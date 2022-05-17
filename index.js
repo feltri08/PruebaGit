@@ -1,1 +1,1 @@
-console.log("hello git and Github from gitpod");
+console.log("hello git and Github from Gitpod");
